@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-27T16:14:42.184Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="jAeOn2hJ_LFiBHJvKCzI" version="17.4.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-04-27T18:59:03.889Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="5XRgYHVZMu6tuYxcLH6o" version="17.4.6" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -143,7 +143,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LcLhfHH0KnYvX7cRS2rL" name="Diagrama de flujo">
-    <mxGraphModel dx="3376" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3423" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1024,7 +1024,7 @@
             <mxPoint x="-530.25" y="2782.9999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o8Y5oAK6q7H0bREudp1O-41" value="Usuario&lt;br&gt;selecciono&lt;br&gt;gestión de&lt;br&gt;pacientes" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="o8Y5oAK6q7H0bREudp1O-41" value="Usuario&lt;br&gt;selecciono&lt;br&gt;gestión de&lt;br&gt;parámetros" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="-590.25" y="2523" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o8Y5oAK6q7H0bREudp1O-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="o8Y5oAK6q7H0bREudp1O-44" target="o8Y5oAK6q7H0bREudp1O-56">
@@ -1110,7 +1110,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="o8Y5oAK6q7H0bREudp1O-63" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Pantalla gestión de pacientes&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="o8Y5oAK6q7H0bREudp1O-63" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Pantalla gestión de parámetros&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-590.25" y="2793" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o8Y5oAK6q7H0bREudp1O-64" value="&lt;h1&gt;Pantalla gestión de parámetros&lt;/h1&gt;&lt;p&gt;Se presentaran el listado de los parámetros de liquidación:&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;p&gt;* Código&lt;br&gt;&lt;/p&gt;&lt;p&gt;* Nombre&lt;/p&gt;&lt;p&gt;* Valor%&lt;br&gt;&lt;/p&gt;&lt;p&gt;* Habilitado (Si o No)&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
@@ -1119,7 +1119,7 @@
         <mxCell id="o8Y5oAK6q7H0bREudp1O-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o8Y5oAK6q7H0bREudp1O-66" target="o8Y5oAK6q7H0bREudp1O-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o8Y5oAK6q7H0bREudp1O-66" value="Usuario&lt;br&gt;selecciono&lt;br&gt;gestión de&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;pacientes&lt;/span&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="o8Y5oAK6q7H0bREudp1O-66" value="Usuario&lt;br&gt;selecciono&lt;br&gt;gestión de&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;parámetro&lt;/span&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="-590.25" y="2906" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o8Y5oAK6q7H0bREudp1O-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="o8Y5oAK6q7H0bREudp1O-68" target="o8Y5oAK6q7H0bREudp1O-72">
@@ -1130,7 +1130,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="o8Y5oAK6q7H0bREudp1O-68" value="Usuario&lt;br&gt;selecciono&lt;br&gt;gestión de&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;pacientes&lt;/span&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="o8Y5oAK6q7H0bREudp1O-68" value="Usuario&lt;br&gt;selecciono&lt;br&gt;gestión de&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;parámetro&lt;/span&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="-716" y="2906" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o8Y5oAK6q7H0bREudp1O-69" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="o8Y5oAK6q7H0bREudp1O-72" target="o8Y5oAK6q7H0bREudp1O-50">
@@ -1167,7 +1167,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lhsXDfJn61Mcb3w9YUZy" name="Usuario común ">
-    <mxGraphModel dx="3412" dy="1393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1880" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
