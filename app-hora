@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-05T13:01:18.312Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36" etag="-AJu6uMN9ShakKaAN6mq" version="18.0.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-05-05T15:53:40.454Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36" etag="fGefchMjHge9kNvt0NE3" version="18.0.0" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1348" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1174,8 +1174,8 @@
         <mxCell id="9zGDVKGI0hqpPabUsPuh-3" value="Pantalla Principal" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="2413" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9zGDVKGI0hqpPabUsPuh-4" value="&lt;h1&gt;Pantalla Principal&lt;/h1&gt;&lt;h1&gt;&lt;p style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;Se presentaran datos estadísticos del comportamiento de los usuarios (Médico, Pacientes y convenios) que estén asociados a este convenio.&lt;/p&gt;&lt;p style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;&lt;/p&gt;&lt;blockquote style=&quot;font-size: 12px ; font-weight: 400 ; margin: 0px 0px 0px 40px ; border: none ; padding: 0px&quot;&gt;&lt;p&gt;* Cantidad de instrumentos&lt;br&gt;&lt;/p&gt;&lt;p&gt;* Instrumentos en uso&lt;/p&gt;&lt;p&gt;* cantidad de médicos&lt;/p&gt;&lt;p&gt;* Médicos activos&lt;/p&gt;&lt;p&gt;* cantidad de pacientes&lt;/p&gt;&lt;p&gt;* Pacientes activos&lt;/p&gt;&lt;p&gt;* Tiempo en uso de los instrumentos&lt;/p&gt;&lt;p&gt;* Gastos según tiempo de uso&lt;/p&gt;&lt;/blockquote&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="530" y="2371" width="250" height="319" as="geometry" />
+        <mxCell id="9zGDVKGI0hqpPabUsPuh-4" value="&lt;h1&gt;Pantalla Principal&lt;/h1&gt;&lt;h1&gt;&lt;p style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;Se presentaran datos estadísticos del comportamiento de los centros de costo que se encuentran en ejecución&lt;/p&gt;&lt;p style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;/p&gt;&lt;blockquote style=&quot;font-size: 12px; font-weight: 400; margin: 0px 0px 0px 40px; border: none; padding: 0px;&quot;&gt;&lt;p&gt;* Código&lt;br&gt;&lt;/p&gt;&lt;p&gt;* Nombre&lt;/p&gt;&lt;p&gt;* Dirección&lt;/p&gt;&lt;p&gt;* Habilitado (Si o No)&lt;/p&gt;&lt;/blockquote&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="530" y="2371" width="250" height="209" as="geometry" />
         </mxCell>
         <mxCell id="9zGDVKGI0hqpPabUsPuh-5" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9zGDVKGI0hqpPabUsPuh-9" target="9zGDVKGI0hqpPabUsPuh-19" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1240,7 +1240,7 @@
           <mxGeometry x="240" y="2803" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9zGDVKGI0hqpPabUsPuh-20" value="&lt;h1&gt;Permisos&lt;/h1&gt;&lt;p&gt;Validamos que el médico tenga el nivel necesario para acceder al listado de instrumentos&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="530" y="2701.5" width="250" height="103" as="geometry" />
+          <mxGeometry x="530" y="2630.5" width="250" height="103" as="geometry" />
         </mxCell>
         <mxCell id="9zGDVKGI0hqpPabUsPuh-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="9zGDVKGI0hqpPabUsPuh-22" target="9zGDVKGI0hqpPabUsPuh-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1248,7 +1248,7 @@
         <mxCell id="9zGDVKGI0hqpPabUsPuh-22" value="Error de validación" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="150" y="2513" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9zGDVKGI0hqpPabUsPuh-23" value="&lt;h1&gt;Pantalla Instrumentos&lt;/h1&gt;&lt;p&gt;Se presentara la siguiente información de los instrumentos, listado de instrumentos, se mostrara la cantidad total de instrumentos, la cantidad de instrumentos activos, cantidad de instrumentos en uso.&lt;/p&gt;&lt;p&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;p&gt;* Nombre&lt;/p&gt;&lt;p&gt;* Serial&lt;/p&gt;&lt;p&gt;* Descripción&lt;/p&gt;&lt;p&gt;* En uso (Si o No)&lt;/p&gt;&lt;p&gt;* Habilitado (Si o No)&lt;/p&gt;&lt;/blockquote&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="9zGDVKGI0hqpPabUsPuh-23" value="&lt;h1&gt;Pantalla Liquidación&lt;/h1&gt;&lt;p&gt;Se presentara la siguiente información de los instrumentos, listado de instrumentos, se mostrara la cantidad total de instrumentos, la cantidad de instrumentos activos, cantidad de instrumentos en uso.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;p&gt;* Nombre&lt;/p&gt;&lt;p&gt;* Serial&lt;/p&gt;&lt;p&gt;* Descripción&lt;/p&gt;&lt;p&gt;* En uso (Si o No)&lt;/p&gt;&lt;p&gt;* Habilitado (Si o No)&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="530" y="2804.5" width="250" height="280" as="geometry" />
         </mxCell>
         <mxCell id="9zGDVKGI0hqpPabUsPuh-24" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9zGDVKGI0hqpPabUsPuh-27" target="9zGDVKGI0hqpPabUsPuh-15" edge="1">
