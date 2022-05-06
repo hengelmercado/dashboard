@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-05T16:22:39.627Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36" etag="6J0sz5m0XMrYWne90snU" version="18.0.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-05-06T18:37:47.776Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36" etag="rc0g4nI-Q8lABO0umh9u" version="18.0.0" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1348" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -143,7 +143,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LcLhfHH0KnYvX7cRS2rL" name="Diagrama de flujo">
-    <mxGraphModel dx="3829" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4067" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1218,7 +1218,7 @@
         <mxCell id="9zGDVKGI0hqpPabUsPuh-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9zGDVKGI0hqpPabUsPuh-15" target="9zGDVKGI0hqpPabUsPuh-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9zGDVKGI0hqpPabUsPuh-15" value="Asignación de instrumentos a pacientes&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="9zGDVKGI0hqpPabUsPuh-15" value="Liquidar horas" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="3183" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9zGDVKGI0hqpPabUsPuh-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9zGDVKGI0hqpPabUsPuh-19" target="9zGDVKGI0hqpPabUsPuh-23" edge="1">
@@ -1236,7 +1236,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9zGDVKGI0hqpPabUsPuh-19" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Pantalla de Instrumentos&lt;/span&gt;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="9zGDVKGI0hqpPabUsPuh-19" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Pantalla de Liquidación&lt;/span&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="2803" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9zGDVKGI0hqpPabUsPuh-20" value="&lt;h1&gt;Permisos&lt;/h1&gt;&lt;p&gt;Validamos que el médico tenga el nivel necesario para acceder al listado de instrumentos&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
@@ -1272,14 +1272,14 @@
         <mxCell id="9zGDVKGI0hqpPabUsPuh-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9zGDVKGI0hqpPabUsPuh-31" target="9zGDVKGI0hqpPabUsPuh-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9zGDVKGI0hqpPabUsPuh-31" value="Usuario&lt;br&gt;selecciono&lt;br&gt;asignar instrumento" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+        <mxCell id="9zGDVKGI0hqpPabUsPuh-31" value="Usuario&lt;br&gt;selecciono&lt;br&gt;Liquidar" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="2923" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9zGDVKGI0hqpPabUsPuh-32" value="&lt;h1&gt;Permisos&lt;/h1&gt;&lt;p&gt;Validamos que el médico tenga el nivel necesario para asignar instrumentos a este paciente o a todos los pacientes&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="550" y="3230" width="250" height="103" as="geometry" />
         </mxCell>
-        <mxCell id="9zGDVKGI0hqpPabUsPuh-33" value="&lt;h1&gt;Formulario asignación instrumento&lt;/h1&gt;&lt;div&gt;Formulario de relación paciente - instrumento.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;div&gt;* Instrumento&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;* Paciente&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;* Habilitado&lt;/div&gt;&lt;/blockquote&gt;&lt;/div&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="530" y="3380" width="250" height="220" as="geometry" />
+        <mxCell id="9zGDVKGI0hqpPabUsPuh-33" value="&lt;h1&gt;Formulario Liquidar horas&lt;/h1&gt;&lt;div&gt;Formulario de cálculos y liquidación de horas trabajadas.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;div&gt;&lt;p&gt;* Fecha&lt;/p&gt;&lt;p&gt;* Código&lt;/p&gt;&lt;p&gt;* Horas trabajadas&lt;/p&gt;&lt;p&gt;* Horas Extras Ordinarias&lt;/p&gt;&lt;p&gt;*&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Horas Extras Nocturnas&lt;/span&gt;&lt;/p&gt;&lt;p&gt;*&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Horas Extras Ordinaria D y F&lt;/span&gt;&lt;/p&gt;&lt;p&gt;*&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Horas Extras Nocturna D y F&lt;/span&gt;&lt;/p&gt;&lt;p&gt;* Recargo Nocturno Ordinario&lt;/p&gt;&lt;p&gt;* Recargo Dominica&lt;/p&gt;&lt;p&gt;* Recargo Nocturno Dominical&lt;/p&gt;&lt;p&gt;* Habilitado (Si o No)&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="530" y="3380" width="250" height="420" as="geometry" />
         </mxCell>
         <mxCell id="9zGDVKGI0hqpPabUsPuh-34" value="Grabar" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="3283" width="120" height="60" as="geometry" />
