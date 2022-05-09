@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-09T20:29:16.633Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36" etag="gCj_Q3ug03aKFSQS4YS_" version="18.0.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-05-09T20:47:34.110Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36" etag="FpnYJ9XudQhohCTbJ1VX" version="18.0.1" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1348" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2420,14 +2420,14 @@
         <mxCell id="0oEjzk_C0_L7dKlQ8-Zp-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0oEjzk_C0_L7dKlQ8-Zp-4" target="0oEjzk_C0_L7dKlQ8-Zp-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0oEjzk_C0_L7dKlQ8-Zp-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0oEjzk_C0_L7dKlQ8-Zp-4" target="0oEjzk_C0_L7dKlQ8-Zp-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0oEjzk_C0_L7dKlQ8-Zp-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0oEjzk_C0_L7dKlQ8-Zp-4" target="0oEjzk_C0_L7dKlQ8-Zp-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="0oEjzk_C0_L7dKlQ8-Zp-4" value="Registro de horas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="194" y="415" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0oEjzk_C0_L7dKlQ8-Zp-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0oEjzk_C0_L7dKlQ8-Zp-5" target="0oEjzk_C0_L7dKlQ8-Zp-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0oEjzk_C0_L7dKlQ8-Zp-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0oEjzk_C0_L7dKlQ8-Zp-5" target="0oEjzk_C0_L7dKlQ8-Zp-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0oEjzk_C0_L7dKlQ8-Zp-5" value="Históricos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="525" width="120" height="60" as="geometry" />
@@ -2435,13 +2435,13 @@
         <mxCell id="0oEjzk_C0_L7dKlQ8-Zp-6" value="Administración" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="514" y="415" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0oEjzk_C0_L7dKlQ8-Zp-11" value="Cantidad de horas invertidas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0oEjzk_C0_L7dKlQ8-Zp-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="14" y="305" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0oEjzk_C0_L7dKlQ8-Zp-12" value="Registro de ingresos y salidas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="14" y="415" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0oEjzk_C0_L7dKlQ8-Zp-13" value="Centros de costo con mayor numero de horas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0oEjzk_C0_L7dKlQ8-Zp-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="14" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0oEjzk_C0_L7dKlQ8-Zp-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -2465,13 +2465,13 @@
         <mxCell id="0oEjzk_C0_L7dKlQ8-Zp-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="514" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0oEjzk_C0_L7dKlQ8-Zp-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0oEjzk_C0_L7dKlQ8-Zp-20" value="Historial de liquidaciones" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="194" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0oEjzk_C0_L7dKlQ8-Zp-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0oEjzk_C0_L7dKlQ8-Zp-21" value="Historial de horas trabajadas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0oEjzk_C0_L7dKlQ8-Zp-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0oEjzk_C0_L7dKlQ8-Zp-22" value="Historial por áreas de trabajo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="514" y="640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
