@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-06T18:37:47.776Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36" etag="rc0g4nI-Q8lABO0umh9u" version="18.0.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-05-09T19:07:58.377Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36" etag="HeLYdOmT9fuNZO0W5zpX" version="18.0.1" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1348" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -143,7 +143,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LcLhfHH0KnYvX7cRS2rL" name="Diagrama de flujo">
-    <mxGraphModel dx="4067" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6332" dy="2020" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2385,6 +2385,14 @@
         <mxCell id="RJl96sREZIU6qZMxK0KY-331" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;Centro de costo&lt;br&gt;Fecha y hora ingreso&lt;br&gt;Fecha y hora salida&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;Horas trabajadas&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1488" y="3562.5" width="130.5" height="75" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="kbSW0RnJTCxCPvc_KwuD" name="Mapa Mental">
+    <mxGraphModel dx="1348" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
