@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-10T16:58:31.961Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="e-p34HWjt9oDHE2nahE2" version="18.0.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-05-10T16:58:58.203Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="11f3tJ1SBROXecfZR_LC" version="18.0.2" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1348" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2405,7 +2405,7 @@
         <mxCell id="0oEjzk_C0_L7dKlQ8-Zp-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0oEjzk_C0_L7dKlQ8-Zp-1" target="0oEjzk_C0_L7dKlQ8-Zp-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0oEjzk_C0_L7dKlQ8-Zp-1" value="App Control de horas" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="0oEjzk_C0_L7dKlQ8-Zp-1" value="Control de horas" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="545" y="415" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0oEjzk_C0_L7dKlQ8-Zp-2" value="&lt;h1&gt;Mapa Mental&lt;/h1&gt;&lt;p&gt;Mapa para al construcción de una aplicación la cual se encargara de registrar las horas trabajadas por el personal de una empres X esto con el fin de optimizar el registro de hora y agilizar la liquidación de las mismas&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
