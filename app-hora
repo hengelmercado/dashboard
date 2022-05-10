@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-10T16:56:02.054Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="opMS0Dvp4PS6tzPIhzzX" version="18.0.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-05-10T16:58:31.961Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="e-p34HWjt9oDHE2nahE2" version="18.0.2" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1348" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2542,7 +2542,7 @@
         <mxCell id="FoAgH5WqALPE5lD3_Fbv-1" value="Roles" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1027" y="161" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FoAgH5WqALPE5lD3_Fbv-2" value="Niveles" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FoAgH5WqALPE5lD3_Fbv-2" value="Cargos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1027" y="239" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
