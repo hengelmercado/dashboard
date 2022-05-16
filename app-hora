@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-10T16:58:58.203Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="11f3tJ1SBROXecfZR_LC" version="18.0.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-05-16T21:33:18.517Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="coKNVtvLHSCYXZt9nBR4" version="18.0.3" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1348" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1238" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -142,8 +142,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="LcLhfHH0KnYvX7cRS2rL" name="Diagrama de flujo">
-    <mxGraphModel dx="3829" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="LcLhfHH0KnYvX7cRS2rL" name="Usuario avanzado">
+    <mxGraphModel dx="9331" dy="4250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1291,7 +1291,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lhsXDfJn61Mcb3w9YUZy" name="Usuario común ">
-    <mxGraphModel dx="2175" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4741" dy="2429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2389,7 +2389,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kbSW0RnJTCxCPvc_KwuD" name="Mapa Mental">
-    <mxGraphModel dx="1348" dy="777" grid="1" gridSize="13" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1238" dy="563" grid="1" gridSize="13" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2488,10 +2488,10 @@
         <mxCell id="0oEjzk_C0_L7dKlQ8-Zp-13" value="Asociación a centros de costo" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="185" y="535" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FoAgH5WqALPE5lD3_Fbv-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0oEjzk_C0_L7dKlQ8-Zp-14" target="FoAgH5WqALPE5lD3_Fbv-1">
+        <mxCell id="FoAgH5WqALPE5lD3_Fbv-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0oEjzk_C0_L7dKlQ8-Zp-14" target="FoAgH5WqALPE5lD3_Fbv-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FoAgH5WqALPE5lD3_Fbv-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0oEjzk_C0_L7dKlQ8-Zp-14" target="FoAgH5WqALPE5lD3_Fbv-2">
+        <mxCell id="FoAgH5WqALPE5lD3_Fbv-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0oEjzk_C0_L7dKlQ8-Zp-14" target="FoAgH5WqALPE5lD3_Fbv-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0oEjzk_C0_L7dKlQ8-Zp-14" value="Registro de personas que usaran al app" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -2539,10 +2539,10 @@
         <mxCell id="Evttgh3CNoofFBE__ZJN-67" value="Datos de liquidación" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1027" y="624" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FoAgH5WqALPE5lD3_Fbv-1" value="Roles" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FoAgH5WqALPE5lD3_Fbv-1" value="Roles" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1027" y="161" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FoAgH5WqALPE5lD3_Fbv-2" value="Cargos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FoAgH5WqALPE5lD3_Fbv-2" value="Cargos" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1027" y="239" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
